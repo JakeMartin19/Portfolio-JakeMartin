@@ -1,0 +1,178 @@
+body {
+    background-color: rgb(152, 206, 253);
+}
+h1 {
+    text-align:center;
+}
+
+.bar {
+    background-color: rgb(2, 137, 255);
+    display:block;
+    padding:10px;
+    margin-left:0;
+    text-align:center;
+    position:sticky;
+    top:0;
+  }
+a {
+    text-decoration: none;
+    padding:10px;
+    color:white;
+    font-size:18px;
+    display:inline;
+}
+.active {
+    background-color: rgb(35, 153, 255);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+  }
+  .GP {
+    text-align: left;
+    font-size: 18px;
+  }
+    .bitmoji {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height:350px;
+    width:275px;
+  }
+  .link {
+    display: inline;
+  }
+  .cert {
+    text-align:center;
+    color:#c841f1;
+  }
+  .list {
+    text-align:center;
+    color:blueviolet;
+  }
+  hr {
+    border-width:2px;
+    border-color:rgb(0, 0, 0);
+  }
+ .microsoft {
+    display:inline;
+    width:250px;
+    Height:300px;
+    margin:auto;
+    padding-right:250px;
+    padding-left:125px;
+  }
+  h2 {
+    text-align:center;
+    color:#9b1cb4;
+  }
+  .h3 {
+    display:inline;
+  }
+  .rock {
+    height:225px;
+    width:225px;
+    margin:auto;
+    padding-left:120px;
+  }
+  video {
+    box-align:left;
+    margin:auto;
+    padding-right:250px;
+    padding-left:150px;
+  }
+  .soccer {
+    padding-left:280px;
+  }
+  .climbing {
+    padding-left: 555px;
+  }
+  .fishing {
+    padding-left:500px;
+    padding-right:250px;
+  }
+  .fish {
+    height:225px;
+    width:350px;
+    padding-left:300px;
+  }
+  .goals {
+    display:grid;
+    background-color:#bd96f0;
+    border-radius: 25px;
+    margin:150px;
+    text-align:center;
+    border-style:double;
+    border-width:5px;
+    border-color:#9455e7;
+
+  }
+  .goalimg {
+    padding-left:200px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-right:175px;
+    
+  }
+  .goalimg2 {
+    padding-left:175px;
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-right:175px;
+      
+    
+  }
+  .about {
+    background-color:#bd96f0;
+    border-top-right-radius:25px;
+    border-top-left-radius:25px;
+    text-align:center;
+    font-size:18px;
+    padding-left:25px;
+    margin-left:300px;
+    margin-right:300px;
+  }
+  .me {
+   display:block;
+    background-color:rgb(2, 137, 255);
+    border-bottom-right-radius:25px;
+    border-bottom-left-radius:25px;
+    text-align:center;
+    font-size:18px;
+    padding-left:25px;
+    margin-left:300px;
+    margin-right:300px;
+  }
+  .dixie {
+    height:200px;
+    width:250px;
+
+ 
+  }
+.work {
+  background-color:rgb(2, 137, 255);
+}
+.certificate {
+color:aquamarine;
+text-align:center;
+}
+.school {
+  color:aquamarine;
+}
+.wool {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-bottom:5px;
+  
+}
+aboutul {
+  text-align:center;
+}
